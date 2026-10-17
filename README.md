@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GAN_RUI_EN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rui-en-gan-44b80b411)
 [![Email](https://img.shields.io/badge/Email-Contact_me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganruien1177@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Gan0117-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gan0117)
+[![Resume](https://img.shields.io/badge/Resume-GAN_RUI_EN-4F46E5?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Gan0117](https://drive.google.com/file/d/1ni8VZnVbfuMO6y_vLdE_fdd61Ng8VX2O/view?usp=sharing))
 
 </div>
 
