@@ -2,7 +2,7 @@
 
 # GAN RUI EN
 
-**Software Engineering Student · Full Stack & Game Developer**
+**Software Engineering Student · Full Stack Developer**
 
 *Question first, then innovate: turning real problems into working products.*
 
